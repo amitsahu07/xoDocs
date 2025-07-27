@@ -1,5 +1,5 @@
 
-This guide simplifies the complex concepts behind low-latency Java services, Linux systems, network messaging, and production operations. It’s designed to help you understand the core ideas and prepare for interview questions, even if you don't have direct experience with every single tool or technology.
+This guide simplifies the complex concepts behind low-latency Java services, Linux systems, network messaging, and production operations. It’s designed to help you understand the core concepts, even if you don't have direct experience with every single tool or technology.
 1. Java Expertise: Speed and Efficiency
 Imagine Java applications as racing cars. For low-latency systems, we want them to be Formula 1 cars – incredibly fast and efficient.
 Layman's Terms & Real-World Examples:
